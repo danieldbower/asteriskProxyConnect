@@ -1,0 +1,6 @@
+build/*
+.gradle/*
+*.swp
+.~lock*
+*.*.prod
+bin/*

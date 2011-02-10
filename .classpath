@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="src" output="build/classes/main" path="src/main/groovy"/>
+	<classpathentry kind="src" output="build/classes/test" path="src/test/groovy"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/javax.activation/activation/jars/activation-1.1.jar" sourcepath="/home/daniel/.gradle/cache/javax.activation/activation/sources/activation-1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/junit/junit/jars/junit-4.7.jar" sourcepath="/home/daniel/.gradle/cache/junit/junit/sources/junit-4.7-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/antlr/antlr/jars/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/org.easymock/easymock/jars/easymock-2.2.jar" sourcepath="/home/daniel/.gradle/cache/org.easymock/easymock/sources/easymock-2.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/log4j/log4j/bundles/log4j-1.2.16.jar" sourcepath="/home/daniel/.gradle/cache/log4j/log4j/sources/log4j-1.2.16-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/org.asteriskjava/asterisk-java/jars/asterisk-java-1.0.0.CI-SNAPSHOT.jar" sourcepath="/asterisk-java"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/asm/asm-commons/jars/asm-commons-3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/javax.mail/mail/jars/mail-1.4.jar" sourcepath="/home/daniel/.gradle/cache/javax.mail/mail/sources/mail-1.4-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/asm/asm-util/jars/asm-util-3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/ch.qos.logback/logback-core/jars/logback-core-0.9.20.jar" sourcepath="/home/daniel/.gradle/cache/ch.qos.logback/logback-core/sources/logback-core-0.9.20-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/org.apache.ant/ant-javamail/jars/ant-javamail-1.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/asm/asm-tree/jars/asm-tree-3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/org.codehaus.groovy/groovy/jars/groovy-1.7.6.jar" sourcepath="/home/daniel/.gradle/cache/org.codehaus.groovy/groovy/sources/groovy-1.7.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/org.apache.ant/ant/jars/ant-1.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/org.apache.ant/ant-launcher/jars/ant-launcher-1.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/asm/asm-analysis/jars/asm-analysis-3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/ch.qos.logback/logback-classic/jars/logback-classic-0.9.20.jar" sourcepath="/home/daniel/.gradle/cache/ch.qos.logback/logback-classic/sources/logback-classic-0.9.20-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/asm/asm/jars/asm-3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/daniel/.gradle/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.1.jar" sourcepath="/home/daniel/.gradle/cache/org.slf4j/slf4j-api/sources/slf4j-api-1.6.1-sources.jar"/>
+	<classpathentry kind="output" path="build/classes/main"/>
+</classpath>
