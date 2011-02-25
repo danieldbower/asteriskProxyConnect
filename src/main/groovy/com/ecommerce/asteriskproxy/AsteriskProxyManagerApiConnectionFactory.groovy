@@ -2,7 +2,7 @@ package com.ecommerce.asteriskproxy
 
 import org.asteriskjava.manager.*
 
-class AsteriskProxyManagerConnectionFactory extends AbstractAsteriskProxyConnectionFactory{
+class AsteriskProxyManagerApiConnectionFactory extends AbstractAsteriskProxyConnectionFactory{
 
 	def createConnection(){
 		println("Creating Manager Connection")
@@ -21,7 +21,7 @@ class AsteriskProxyManagerConnectionFactory extends AbstractAsteriskProxyConnect
 	}
 	
 	static void main(String[] args){
-		connectionFromMainArgs(new AsteriskProxyManagerConnectionFactory(), args)
+		connectionFromMainArgs(new AsteriskProxyManagerApiConnectionFactory(), args)
 	}
 	
 }

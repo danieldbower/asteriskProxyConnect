@@ -12,16 +12,16 @@ import org.asteriskjava.manager.action.*
 import org.asteriskjava.manager.event.*;
 import org.asteriskjava.manager.response.*
 
-class AsteriskProxyConnectionFactoryTest {
+class AsteriskProxyManagerApiConnectionFactoryTest {
 
 	@BeforeClass
 	public static void setUpBeforeClass() {
-		AsteriskProxyManagerConnectionFactory.createTraceFileInTempDir()
+		AsteriskProxyManagerApiConnectionFactory.createTraceFileInTempDir()
 	}
 
 	@Test
 	public void testConnect() {
-		def factory = new AsteriskProxyManagerConnectionFactory()
+		def factory = new AsteriskProxyManagerApiConnectionFactory()
 		assert factory
 		 
 		def conn = factory.createConnection()
